@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "12338954_A2_App",
+    "slug": "12338954_A2_App",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "at.ac.univie.AlexTeo.MyA2App"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "bec81a69-1aea-499e-8c36-59418d3e6c98"
+      }
+    },
+    "owner": "alexanderteo",
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
