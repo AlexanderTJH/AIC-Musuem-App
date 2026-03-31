@@ -7,7 +7,7 @@ This project was tested using an **Android Emulator (Pixel 5 API 30)**.
 ---
 ## Demo
 
-![App demo](assets/readme/demo.gif)
+![App demo](assets/demo/demo.gif)
 
 ## Screenshots
 
