@@ -9,8 +9,6 @@ This project was tested using an **Android Emulator (Pixel 5 API 30)**.
 
 ![App demo](assets/demo/demo.gif)
 
-## Screenshots
-
 ## Features
 
 - **Search artworks** by keyword
