@@ -5,6 +5,11 @@ A React Native (Expo) Android app that uses the **Art Institute of Chicago (AIC)
 This project was tested using an **Android Emulator (Pixel 5 API 30)**.
 
 ---
+## Demo
+
+![App demo](assets/readme/demo.gif)
+
+## Screenshots
 
 ## Features
 
